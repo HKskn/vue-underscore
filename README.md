@@ -39,6 +39,8 @@ Vue.use(underscore);
 new Vue({
   ...App
 }).$mount('#app');
+```
+
 
 # Examples
 ```html
