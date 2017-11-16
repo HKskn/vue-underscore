@@ -1,0 +1,22 @@
+{
+  "name": "vue-underscore",
+  "version": "0.0.2",
+  "description": "simple underscore implementation for vueJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HKskn/vue-underscore.git"
+  },
+  "author": "Haluk Keskin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HKskn/vue-underscore/issues"
+  },
+  "homepage": "https://github.com/HKskn/vue-underscore#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
