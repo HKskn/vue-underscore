@@ -40,7 +40,15 @@ new Vue({
   ...App
 }).$mount('#app');
 ```
+You will be able to access underscore directly via
 
+```javascript
+import {_} from 'vue-underscore';
+
+let testArr = [{id: 1}, {id:2}];
+let foundInfo = _.findWhere(testArr, {id:1});
+
+```
 
 # Examples
 ```html
