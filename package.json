@@ -1,6 +1,6 @@
 {
   "name": "vue-underscore",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "simple underscore implementation for vueJS",
   "main": "index.js",
   "scripts": {
