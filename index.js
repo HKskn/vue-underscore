@@ -8,3 +8,6 @@ export default {
   },
   _
 };
+
+
+export const _=_;
