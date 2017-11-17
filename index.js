@@ -1,12 +1,12 @@
 
 
-import _ from 'underscore';
+import underscore from 'underscore';
 
 export default {
   install(Vue, options) {
-    Vue.prototype.$_ = _;
+    Vue.prototype.$_ = underscore;
   }
 };
 
 
-export const _=_;
+export const _= underscore;
