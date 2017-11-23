@@ -3,7 +3,7 @@
 import underscore from 'underscore';
 
 export default {
-  install(Vue, options) {
+  install: function(Vue, options) {
     Vue.prototype.$_ = underscore;
   }
 };
