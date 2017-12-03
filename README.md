@@ -25,7 +25,7 @@ $ npm install vue-underscore
 
 ```
 # Usage
-After use plugin on main.js. You can call it simply with 'this.$_.findwhere' (each, map, reduce, filter...)
+After using the plugin on main.js. You can call it simply with 'this.$_.findwhere' (each, map, reduce, filter...)
 
 main.js
 
