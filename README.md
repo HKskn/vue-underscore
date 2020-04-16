@@ -40,7 +40,7 @@ new Vue({
   ...App
 }).$mount('#app');
 ```
-You will be able to access underscore directly via
+If you wouldn't like to access from vue prototype, you can add underscore on the component source code directly via below.
 
 ```javascript
 import {_} from 'vue-underscore';
